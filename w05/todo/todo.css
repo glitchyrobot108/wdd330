@@ -1,0 +1,15 @@
+li > *{
+    display: inline;
+}
+
+li p{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+li{
+    display: inline;
+    padding: 5px;
+    border: solid 1px black;
+ 
+}

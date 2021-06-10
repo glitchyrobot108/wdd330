@@ -49,3 +49,8 @@ function addTask(){
     textbox.value = ''
     console.log(list)
 }
+
+function sortByCompleted(){
+    list.sort(check)
+    console.log(list)
+}
